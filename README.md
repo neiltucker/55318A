@@ -13,4 +13,4 @@ After completing this course, students will be able to:<br>
 • Use XML, JSON, and custom formatted data.<br>
 • Manage Microsoft Azure resources<br>
 • Analyze and debug scripts<br>
-• Understand Windows PowerShell workflow.<br>
+• Understand Windows PowerShell Workflow.<br>
