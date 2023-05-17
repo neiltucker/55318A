@@ -1,4 +1,4 @@
-# 55318A
+# 55318A Advanced Automated Administration with Windows PowerShell
 55318A is the updated version of the retired legacy MOC course 10962C. This three-day course teaches students how to automate administrative tasks using PowerShell. Students will learn crucial scripting skills such as creating advanced functions, writing controller scripts, and handling script errors. Candidates will learn how to use PowerShell when working with Microsoft Azure, SQL Server, Active Directory, IIS, Windows PowerShell Workflow, .NET resources, the REST API and XML, CSV & JSON formatted data files.
 
 Audience:<br>
