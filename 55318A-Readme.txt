@@ -1,6 +1,12 @@
 *****   55318A-Readme.txt   *****                                                                 					*****
+Advanced Automated Administration with Windows PowerShell
 
-55318A - Advanced Automated Administration with Windows PowerShell
+
+Updates:
+Setup Files: https://github.com/neiltucker/55318A
+Printed Courseware: http://www.neiltucker.com
+Online Courseware: http://www.softwaretutorialservices.com
+
 
 *****   Class Delivery   ***** 
 55318A is the updated version of the retired legacy MOC course 10962C.  
@@ -13,3 +19,5 @@ For additional help in configuring standard or customized deliveries, please rea
 Licensing:
 The training center or any organization hosting the lab computers for this class are fully responsible for the licensing of all software used in the course and labs. 
 An Azure deployment of the class may make this process easier.
+
+
