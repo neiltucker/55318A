@@ -1,12 +1,10 @@
 *****   55318A-Readme.txt   *****                                                                 					*****
 Advanced Automated Administration with Windows PowerShell
 
-
 Updates:
 Setup Files: https://github.com/neiltucker/55318A
 Printed Courseware: http://www.neiltucker.com
 Online Courseware: http://www.softwaretutorialservices.com
-
 
 *****   Class Delivery   ***** 
 55318A is the updated version of the retired legacy MOC course 10962C.  
@@ -20,4 +18,5 @@ Licensing:
 The training center or any organization hosting the lab computers for this class are fully responsible for the licensing of all software used in the course and labs. 
 An Azure deployment of the class may make this process easier.
 
-
+Note:
+Exercises using Azure Data Studio (ADS) should now be substituted with Visual Studio Code or SSMS.  ADS will soon be removed or deprecated by Microsoft.
